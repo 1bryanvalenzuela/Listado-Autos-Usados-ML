@@ -3,6 +3,8 @@ Análisis y predicción de datos de una publicación de Kaggle (Used Car Auction
 
 Se utilizó Jupyter Notebook (Python) para realizar el proyecto.
 
+El dataset utilizado se encuentra en: https://www.kaggle.com/datasets/tunguz/used-car-auction-prices/data
+
 ## Información relevante obtenida:
 1. Las marcas con mayor precio de venta y las marcas con mayor número de ventas.
 2. Lunes, martes y miércoles son los días en los que ocurre la mayor cantidad de ventas.
