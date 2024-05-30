@@ -1,4 +1,4 @@
-# Listado-Autos-Usados-ML
+# Análisis de datos de venta de vehiculos, 2015
 Análisis y predicción de datos de una publicación de Kaggle (Used Car Auction Prices, US, 2015).
 
 Se utilizó Jupyter Notebook (Python) para realizar el proyecto.
